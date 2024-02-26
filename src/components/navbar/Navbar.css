@@ -22,3 +22,8 @@ nav ul li {
     margin: 5px 20px;
     font-size: 16px;
 }
+
+.dark-nav {
+    background: linear-gradient(rgba(34, 34, 34, 0.7),rgba(0, 0, 0, 0.7));
+    transition: 0.5s;
+}

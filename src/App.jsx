@@ -36,4 +36,7 @@ const App = () => {
   )
 }
 
+
+# when creating the next page maake sure to import the { route, routes, back-search } as these modules allow for the proper implementation of the nav bar
+
 export default App
